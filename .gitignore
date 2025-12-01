@@ -1,0 +1,15 @@
+# Carpetas de Visual Studio
+.vs/
+Debug/
+Release/
+bin/
+obj/
+
+# Archivos de usuario de VS
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Paquetes
+packages/
